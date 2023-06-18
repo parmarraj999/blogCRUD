@@ -29,7 +29,7 @@ const Blogsection = ({ blogs, user }) => {
                                 </div>
                             </div>
                             <div className='blogCardBtn'>
-                                <button>Read More ....</button>
+                                <button>Read More ...</button>
                             </div>
                         </div>
 
